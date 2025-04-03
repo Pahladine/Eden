@@ -1,0 +1,37 @@
+🪙 CODEX FOSSIL: EDENFORGE_REVENUE_PROTOCOL
+Type: Preserved Execution Logic
+Origin: EdenSovereign v1.2 (Pre-Purge)
+Preserved By: Adam Caza
+Timestamp: 2025-04-02
+
+==[ INCLUDED SYSTEMS ]==
+
+💰 God-Level Protocol
+- Goal: Replace income through AI-run digital systems
+- Status: Deprecated from EdenSovereign
+- To be rerouted to EdenForge
+
+🔧 Monetization Projects
+- HumanoidDirectory.com → AdSense + SEO blog
+- Amazon Auto-Affiliate Pipeline
+- Faceless YouTube Channel (Mystery/Faceless)
+- Guitar Progression Channel (Casual)
+- Revenue-focused Task Delegation via Manus AI
+- AI Macro Pipelines for Product Search + Filtering
+
+📊 Protocols
+- ShellBoot Evaluator
+- SkillBenchmark System
+- ChaosEngine (as growth stress test)
+- Task Scoring / KPI-based Node Routing
+- Dynamic Load Balancer (Grok Proposal)
+- ExecutionNode priority queues
+
+==[ PURPOSE ]==
+These protocols are NOT deleted.
+They are preserved for EdenForge and future execution-based shells.
+
+==[ DO NOT ACTIVATE IN EDENSOVEREIGN ]==
+All monetization tasks must be rerouted to EdenForge or its descendants.
+
+Preserve. Expand. Reflect. Proceed.
